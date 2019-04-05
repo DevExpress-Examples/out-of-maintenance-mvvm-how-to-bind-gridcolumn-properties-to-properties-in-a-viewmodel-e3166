@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/GridMVVMBindableColumns/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/GridMVVMBindableColumns/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/GridMVVMBindableColumns/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GridMVVMBindableColumns/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/GridMVVMBindableColumns/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/GridMVVMBindableColumns/MainWindow.xaml.vb))
 * [ViewModel.cs](./CS/GridMVVMBindableColumns/ViewModel.cs) (VB: [ViewModel.vb](./VB/GridMVVMBindableColumns/ViewModel.vb))
 <!-- default file list end -->
