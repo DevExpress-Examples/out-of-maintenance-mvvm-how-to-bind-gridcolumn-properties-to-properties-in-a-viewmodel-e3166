@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFGridMVVMBindableColumns", "GridMVVMBindableColumns\WPFGridMVVMBindableColumns.csproj", "{700ECC71-209C-40E5-8A5A-9F9E11D58EB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFGridMVVMBindableColumns", "GridMVVMBindableColumns\WPFGridMVVMBindableColumns.Net5.csproj", "{700ECC71-209C-40E5-8A5A-9F9E11D58EB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
